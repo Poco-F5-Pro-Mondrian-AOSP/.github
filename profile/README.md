@@ -16,10 +16,10 @@
 [Sepolicy](https://github.com/Poco-F5-Pro-Mondrian-AOSP/device_xiaomi_sepolicy) - device/xiaomi/sepolicy
 
 ## Display Hal (recommended)
-[Display HAL] (https://github.com/Poco-F5-Pro-Mondrian-AOSP/hardware_qcom-caf_sm8450_display) - hardware/qcom-caf/sm8450/display
+[Display HAL](https://github.com/Poco-F5-Pro-Mondrian-AOSP/hardware_qcom-caf_sm8450_display) - hardware/qcom-caf/sm8450/display
 
 ## Viper support (Optional)
-[ViperFx] (https://github.com/Poco-F5-Pro-Mondrian-AOSP/packages_apps_ViPER4AndroidFX) - packages/apps/ViPER4AndroidFX
+[ViperFx](https://github.com/Poco-F5-Pro-Mondrian-AOSP/packages_apps_ViPER4AndroidFX) - packages/apps/ViPER4AndroidFX
 
 ## Side Note
 * Currently, bringup for trees is done for EvolutionX project, please respectfully adapt for the project that you are planning to use.
